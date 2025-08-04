@@ -33,4 +33,4 @@ Only 14 attributes used:
 
 # Model : Binary Classification Model
 
-# Target Column : num : To Predict Whether The Patient has Heart Disease or Not ?
+# Target Column : target : To Predict Whether The Patient has Heart Disease or Not ?
